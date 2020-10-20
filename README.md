@@ -1,4 +1,4 @@
-# Predicting-Parkinsons-Disease-Progression-with-Smartphone-Data
+# Predicting Parkinson's Disease Progression with Smartphone Data
 
 Github repo for iPython notebooks and my project paper. This project was part of UC Berkeley Public Health 244, Big Data: A Public Health Perspective where we learn how to deal with big scientific and healthcare data.
 
